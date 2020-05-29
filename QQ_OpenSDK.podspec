@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "QQ_OpenSDK"
-  s.version      = "3.3.8"
+  s.version      = "3.3.9"
   s.summary      = "QQ_OpenSDK.来自腾讯开放平台下载"
   s.description  = <<-DESC
                     this is common
