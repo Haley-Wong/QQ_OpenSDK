@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version      = "3.3.9"
   s.summary      = "QQ_OpenSDK.来自腾讯开放平台下载"
   s.description  = <<-DESC
-                    this is common
+                    因为腾旭开放平台一直不更新Cocoapods中的QQ_OpenSDK，所以这里自己上传。
                    DESC
   s.homepage     = "https://wiki.open.qq.com/"
   s.license      = {
